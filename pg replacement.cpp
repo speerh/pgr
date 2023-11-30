@@ -1,5 +1,6 @@
 #include <fstream>
 #include <iostream>
+#include <vector>
 
 using namespace std; 
 
@@ -10,7 +11,7 @@ using namespace std;
 //READ STRING
 
 int main() {
-    int inp[] = {-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1};
+    vector<int> inp;
     string filename = "";
 }
 
